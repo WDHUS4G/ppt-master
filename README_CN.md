@@ -58,7 +58,7 @@
 <p align="center">
   <a href="#快速开始"><strong>快速开始</strong></a> ·
   <a href="https://hugohe3.github.io/ppt-master-examples/"><strong>在线预览</strong></a> ·
-  <a href="https://github.com/WDHUS4G/ppt-master-examples"><strong>示例下载</strong></a> ·
+  <a href="https://github.com/hugohe3/ppt-master-examples"><strong>示例下载</strong></a> ·
   <a href="./docs/zh/faq.md"><strong>常见问题</strong></a> ·
   <a href="./docs/zh/roadmap.md"><strong>路线图</strong></a>
 </p>
@@ -81,7 +81,7 @@
 </table>
 
 <p align="center">
-  <sub>每份示例都是一次性生成、未经精修；下载任意一份 .pptx 在 PowerPoint 里打开，是感受真实产出水平最快的方式。<br/><a href="https://hugohe3.github.io/ppt-master-examples/">在线翻看全部示例 →</a> · <a href="https://github.com/WDHUS4G/ppt-master-examples">示例仓库</a> · <a href="./docs/zh/why-ppt-master.md">为什么选 PPT Master？</a></sub>
+  <sub>每份示例都是一次性生成、未经精修；下载任意一份 .pptx 在 PowerPoint 里打开，是感受真实产出水平最快的方式。<br/><a href="https://hugohe3.github.io/ppt-master-examples/">在线翻看全部示例 →</a> · <a href="https://github.com/hugohe3/ppt-master-examples">示例仓库</a> · <a href="./docs/zh/why-ppt-master.md">为什么选 PPT Master？</a></sub>
 </p>
 
 ---

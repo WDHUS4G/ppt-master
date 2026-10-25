@@ -58,7 +58,7 @@ Thanks to [Kimi](https://www.kimi.com/code/?aff=ppt-master) for sponsoring this 
 <p align="center">
   <a href="#quick-start"><strong>Quick Start</strong></a> ·
   <a href="https://hugohe3.github.io/ppt-master-examples/"><strong>Live Demo</strong></a> ·
-  <a href="https://github.com/WDHUS4G/ppt-master-examples"><strong>Examples</strong></a> ·
+  <a href="https://github.com/hugohe3/ppt-master-examples"><strong>Examples</strong></a> ·
   <a href="./docs/faq.md"><strong>FAQ</strong></a> ·
   <a href="./docs/roadmap.md"><strong>Roadmap</strong></a>
 </p>
@@ -81,7 +81,7 @@ Thanks to [Kimi](https://www.kimi.com/code/?aff=ppt-master) for sponsoring this 
 </table>
 
 <p align="center">
-  <sub>Every example is a single pass with no manual polish; downloading a .pptx and opening it in PowerPoint is the fastest way to see what it can really do.<br/><a href="https://hugohe3.github.io/ppt-master-examples/">Flip through all examples online →</a> · <a href="https://github.com/WDHUS4G/ppt-master-examples">Source repository</a> · <a href="./docs/why-ppt-master.md">Why PPT Master?</a></sub>
+  <sub>Every example is a single pass with no manual polish; downloading a .pptx and opening it in PowerPoint is the fastest way to see what it can really do.<br/><a href="https://hugohe3.github.io/ppt-master-examples/">Flip through all examples online →</a> · <a href="https://github.com/hugohe3/ppt-master-examples">Source repository</a> · <a href="./docs/why-ppt-master.md">Why PPT Master?</a></sub>
 </p>
 
 ---
